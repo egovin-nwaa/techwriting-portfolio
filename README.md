@@ -1,3 +1,3 @@
-# My-first-Repository
-my name is miriam
-i am a junior web developer t5rying to get a hang of github
+Hii, I'm Miriam
+I explore the Web3 ecosystem
+I'm currently learning Python as a foundational language for Web3 development
