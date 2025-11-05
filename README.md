@@ -6,9 +6,7 @@ This repository contains simple tutorials and guides I've written as part of my 
 
 ---
 ## Tutorials
-1. [How to Open a MEXC Account]
-
-
+1. [How to Open a MEXC Account](tutorials/how-to-open-a-mexc-account.md)
 
 
 ---
